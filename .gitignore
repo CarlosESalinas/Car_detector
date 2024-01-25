@@ -1,4 +1,4 @@
 # .gitignore
 
 # Ignorar archivos de video
-
+*.mp4

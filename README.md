@@ -14,9 +14,9 @@ El archivo `Rastraeador.cypthon-311.pyc` es un modelo preentrenado diseñado par
 
 El programa principal, `main.py`, utiliza el modelo preentrenado y la biblioteca OpenCV para realizar la detección de objetos en un video. 
 
-## Resultado
 
-<video width="640" height="360" controls>
-  <source src="../car_deteccion.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de video.
-</video>
+## Video de Demostración
+
+Puedes ver una demostración del proyecto a continuación:
+
+<iframe width="560" height="315" src="https://youtu.be/uTbKkyqr-Zk" frameborder="0" allowfullscreen></iframe>
