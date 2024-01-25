@@ -19,4 +19,4 @@ El programa principal, `main.py`, utiliza el modelo preentrenado y la biblioteca
 
 Puedes ver una demostración del proyecto a continuación:
 
-<iframe width="560" height="315" src="https://youtu.be/uTbKkyqr-Zk" frameborder="0" allowfullscreen></iframe>
+[enlace de YouTube](https://youtu.be/uTbKkyqr-Zk)
