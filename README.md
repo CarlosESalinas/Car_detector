@@ -1,6 +1,6 @@
-# Detección de Objetos con Rastreador
+# Detección de Carros con Rastreador
 
-Este proyecto utiliza un modelo preentrenado llamado `Rastraeador.cypthon-311.pyc` para llevar a cabo la detección de objetos en un entorno visual. El objetivo principal es identificar y rastrear objetos en un video o secuencia de imágenes.
+Este proyecto utiliza un modelo preentrenado llamado `Rastraeador.cypthon-311.pyc` para llevar a cabo la detección de objetos en un entorno visual. El objetivo principal es identificar y rastrear carros en un video o secuencia de imágenes.
 
 ## Modelo preentrenado
 
